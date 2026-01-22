@@ -1,0 +1,1 @@
+{ "name": "sidra-pay-gate", "private": true, "devDependencies": { "@vercel/node": "^3", "typescript": "^5" }, "dependencies": { "ethers": "^6.11" } }
